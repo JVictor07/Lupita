@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120758224653",
+    "project_id": "lupita-6gagf5",
+    "storage_bucket": "lupita-6gagf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120758224653:android:3717d9a75a6967eb705244",
+        "android_client_info": {
+          "package_name": "com.mycompany.lupita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFJKw-VCFtcgo_ztOkhalTtiPqhlS5eS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
